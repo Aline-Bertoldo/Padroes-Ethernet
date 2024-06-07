@@ -1,2 +1,2 @@
-# Padr-es-Ethernet
+# Padrões Ethernet
 aula-06/06
